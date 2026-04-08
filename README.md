@@ -53,3 +53,21 @@ Open the folder in VS Code.
 Compile and run FinSafeApp.java.
 
 Follow the on-screen menu to perform banking operations.
+
+
+## 📸 Demo & Screenshots
+
+### Successful Transactions
+![Successful Deposition Screenshot](./screenshots/success_deposit.png)
+![Successful Withrawal Screenshot](./screenshots/success_withdrawal.png)
+![Transaction Log Screenshot](./screenshots/audit_logging.png)
+
+### Error (Custom Exception)
+![Illegal Argument Exception Screenshot](./screenshots/exception1_withdrawal.png)
+![Insufficient Funds Exception Screenshot](./screenshots/exception2_withdrawal.png)
+![Depositional Exception Screenshot](./screenshots/exception_deposit.png)
+
+### 📺 Demo Video
+[![Watch the Demo](https://img.shields.io/badge/Loom-Video_Demo-blue?style=for-the-badge&logo=loom)](https://www.loom.com/share/e9723806e5f94f3cb4d82303de77e384)
+*Click the badge above to watch the full walkthrough of the FinSafe Validator.*
+
